@@ -30,8 +30,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 - [Reddit API](https://www.reddit.com/dev/api/)
 - [Vercel](https://vercel.com)
 
-## License & copyright
 
-© Robert C Soriano
-
-Licensed under the [MIT License](LICENSE).
